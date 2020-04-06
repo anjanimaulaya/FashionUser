@@ -1,0 +1,76 @@
+{
+    "user": [
+        {
+            "id" : 1,
+            "address" : "Jakarta",
+            "name" : "Septiariani Rahayu",
+            "phone": "081098765432",
+            "favorites" : [
+                {
+                    "id" : 1,
+                    "brand" : "Berrybenka",
+                    "desc 1" : "Size M",
+                    "desc 2" : "Material cotton",
+                    "name" : "Berrybenka top adinda 123",
+                    "image" : "https://dynamic.zacdn.com/dGOMQ8ufMgP-A53FwefiR0l7LTE=/fit-in/346x500/filters:quality(90):fill(ffffff)/http://static.id.zalora.net/p/berrybenka-label-2764-5782812-1.jpg",
+                    "price" : 399000,
+                    "sku" : "AB-001",
+                    "type" : "blouses",
+                    "category" : {
+                        "id" : 2,
+                        "name" : "women"
+                    }  
+                },
+                {
+                    "id" : 2,
+                    "brand" : "Levi's",
+                    "desc 1" : "Size L",
+                    "desc 2" : "Material jeans",
+                    "name" : "Levi's jacket jeans",
+                    "image" : "https://slimages.macysassets.com/is/image/MCY/products/5/optimized/8515035_fpx.tif?op_sharpen=1&wid=500&hei=613&fit=fit,1&$filtersm$",
+                    "price" : 799000,
+                    "sku" : "AB-002",
+                    "type" : "jacket",
+                    "category" : {
+                        "id" : 1,
+                        "name" : "men"
+                    }
+                }
+            ]
+
+        },
+        {
+            "id" : 2,
+            "address" : "Demak",
+            "name" : "Anjani Maulaya",
+            "phone": "081234567890",
+            "favorites":[]
+        },
+        {
+            "id" : 3,
+            "address" : "Jakarta",
+            "name" : "Shandika",
+            "phone": "081234098765",
+            "favorites" :[
+                {
+                    "id" : 4,
+                    "brand" : "Cottonink",
+                    "desc 1" : "Size L",
+                    "desc 2" : "Formal look",
+                    "name" : "Cotton ink dresses gown",
+                    "image" : "https://s3-ap-southeast-1.amazonaws.com/cottonink/product/FloralPrintedNorina_110319_01_zoom.jpg",
+                    "price" : 699000,
+                    "sku" : "AB-004",
+                    "type" : "dresses",
+                    "category" : {
+                        "id" : 2,
+                        "name" : "women"
+            }
+                }
+            ]
+
+        }
+        
+    ]
+
+}
